@@ -21,6 +21,21 @@ version: 2.0.0
 
 情境模糊 → 走完整流程。
 
+### 資源檔(本目錄內,§1–§6 的完整展開版)
+
+本 SKILL.md 是可獨立運作的精簡流程;要逐項深挖時讀本目錄下的完整資源:
+
+| 情境 / 用途 | 檔案 |
+|---|---|
+| **完整檢核清單**(§1 的逐面向展開,含判準與反例) | [`design_check/UIUX_Design_Checklist_Full.md`](design_check/UIUX_Design_Checklist_Full.md) |
+| **ASCII 原型寫法與範例**(§4) | [`design_check/ascii_prototype.md`](design_check/ascii_prototype.md) |
+| **增量設計檢核**(既有系統加介面) | [`new_ui_spec_checklist.md`](new_ui_spec_checklist.md) |
+| **Design token 起手包**(§5.1)——Tailwind 設定、注入層做法 | [`design_system/Tailwind_Design_Token_Setup.md`](design_system/Tailwind_Design_Token_Setup.md) |
+| **設計規格範本**(§5 產出用) | [`design_system/Spec_Prompt_Template.md`](design_system/Spec_Prompt_Template.md) |
+| **完整設計系統檢核**(最深版) | [`design_system/UIUX_Design_Checklist.md`](design_system/UIUX_Design_Checklist.md) |
+
+各子目錄的 `README.md` 說明該包怎麼用。
+
 ---
 
 ## §1 檢核本設計
